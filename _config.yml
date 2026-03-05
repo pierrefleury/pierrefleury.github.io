@@ -31,7 +31,7 @@ url: "https://pierrefleury.github.io" # the base hostname & protocol for your si
 github_username:  pierrefleury
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
